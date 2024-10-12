@@ -11,7 +11,7 @@ public class Program {
 
 	public static void main(String[] args) throws ParseException {
 		
-		//Primeira solução -> muito ruim
+		//Primeira solução -> ruim
 		
 		Scanner sc = new Scanner(System.in);
 		SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
